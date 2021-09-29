@@ -33,7 +33,7 @@ function calculateTotal() {
 	//update on the html
 	document.getElementById("sub-total").innerText = subTotal;
 	document.getElementById("tax-amount").innerText = tax;
-	document.getElementById("total-price").innerText = totalPricegit;
+	document.getElementById("total-price").innerText = totalPrice;
 }
 
 //Handle Phone increase decrease event
